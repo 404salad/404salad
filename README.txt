@@ -1,1 +1,1 @@
-i do rust
+markdown sucks
