@@ -1,3 +1,3 @@
-> aren't we all eventualy merging into the master branch called death
+> always an angel never a god
 
 ![project euler](https://projecteuler.net/profile/404salad.png)
