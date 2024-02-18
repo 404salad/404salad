@@ -1,4 +1,4 @@
- always an angel never a god
+tech fundamentalist
 
 ![project euler](https://projecteuler.net/profile/404salad.png)
 
