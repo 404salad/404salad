@@ -2,4 +2,4 @@ tech fundamentalist
 
 ![project euler](https://projecteuler.net/profile/404salad.png)
 
-[website](https://404salad.vercel.app#links)
+[website](https://404salad.vercel.app)
