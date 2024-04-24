@@ -1,4 +1,4 @@
-if there is not love, then what
+if there is no love, then what
 
 ![project euler](https://projecteuler.net/profile/404salad.png)
 
