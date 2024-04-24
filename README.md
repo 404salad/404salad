@@ -1,4 +1,4 @@
-tech fundamentalist
+if there is not love, then what
 
 ![project euler](https://projecteuler.net/profile/404salad.png)
 
