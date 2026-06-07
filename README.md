@@ -1,4 +1,5 @@
-sufferer of shiny object syndrome
+[other fun things here
+](https://codeberg.org/404salad)
 
 ![project euler](https://projecteuler.net/profile/404salad.png)
 
